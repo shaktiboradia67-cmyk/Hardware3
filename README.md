@@ -58,3 +58,62 @@ Always check your **motherboard's specifications** before purchasing RAM. The mo
 
 As the DDR generation increases, memory generally provides **higher bandwidth, lower operating voltage, and greater capacity**, although actual performance depends on the CPU, motherboard, memory configuration, and workload.
 
+# Q2.Open your laptop or desktop (with power disconnected), locate the RAM slots, and take a clear photo of the installed RAM module. Reinstall the RAM module and verify that your system boots up successfully.<br><br><em><strong>Hint:</strong> Refer to your device manual or a trusted YouTube guide if unsure about RAM removal and installation steps.</em>
+Ans. # 🧠 RAM Installation & Verification
+
+## 🔧 Objective
+
+To locate the RAM module, safely remove and reinstall it, and verify that the computer boots successfully and recognizes the installed memory.
+
+## 📋 Procedure
+
+1. 🔌 Shut down the computer and disconnect the power supply.
+2. 🛡️ Open the desktop case or laptop back panel carefully.
+3. 🔍 Locate the **RAM slots** on the motherboard.
+4. 📸 Take a clear photo of the installed RAM module.
+5. ↔️ Release the RAM module by opening the retaining clips on both sides.
+6. 🧤 Carefully remove the RAM by holding it from the edges.
+7. 🔄 Align the notch on the RAM module with the key in the RAM slot.
+8. ⬇️ Press the RAM module firmly and evenly until the retaining clips lock it into place.
+9. 🔌 Close the case/panel and reconnect the power supply.
+10. 💻 Turn on the computer and verify that the system boots normally.
+11. ✅ Check the system information or **Task Manager → Performance → Memory** to confirm that the RAM is detected correctly.
+
+## 📸 RAM Module
+
+> **Insert your clear photo of the installed RAM module here.**
+
+```markdown
+![Installed RAM Module](images/ram-module.jpg)
+```
+
+## ✅ Verification
+
+After reinstalling the RAM:
+
+* 💻 The computer **booted successfully**.
+* 🧠 The installed RAM was **detected by the operating system**.
+* ⚡ The system operated normally after reinstallation.
+
+## 📊 Result
+
+| Check                      | Status      |
+| -------------------------- | ----------- |
+| RAM module located         | ✅ Completed |
+| RAM module photographed    | ✅ Completed |
+| RAM removed safely         | ✅ Completed |
+| RAM reinstalled            | ✅ Completed |
+| System booted successfully | ✅ Verified  |
+| RAM detected by system     | ✅ Verified  |
+
+## ⚠️ Safety Notes
+
+* Always disconnect power before opening the computer.
+* Avoid touching the gold contacts on the RAM module.
+* Hold RAM by its edges.
+* Never force the module into the slot.
+* Make sure the RAM notch is correctly aligned before installation.
+
+### 🎯 Conclusion
+
+The RAM module was safely removed and reinstalled. After reconnecting the power, the computer booted successfully and the installed memory was recognized by the system.
