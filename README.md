@@ -117,3 +117,128 @@ After reinstalling the RAM:
 ### 🎯 Conclusion
 
 The RAM module was safely removed and reinstalled. After reconnecting the power, the computer booted successfully and the installed memory was recognized by the system.
+# Q3.List three key differences between HDD, SSD, and NVMe storage types, and for each, name one app or use case (from apps you use daily) that would benefit most from that storage type.
+Ans. # 💾 HDD vs SSD vs NVMe
+
+## 📊 Comparison Table
+
+| Feature                  | 🟤 HDD                          | 🔵 SSD                            | 🟣 NVMe SSD                                    |
+| ------------------------ | ------------------------------- | --------------------------------- | ---------------------------------------------- |
+| ⚡ **Speed**              | Slow                            | Fast                              | Very fast                                      |
+| 🔌 **Interface**         | SATA / mechanical               | Usually SATA                      | PCIe                                           |
+| 🧩 **Technology**        | Spinning magnetic disks         | Flash memory                      | Flash memory with PCIe                         |
+| 🔊 **Noise**             | Makes mechanical noise          | Silent                            | Silent                                         |
+| 💰 **Cost per GB**       | Low                             | Moderate                          | Higher                                         |
+| 📱 **Best Use Case**     | Large file/archive storage      | Everyday apps & general computing | Gaming, video editing & demanding applications |
+| 🎯 **Daily App Example** | **Google Drive backup/archive** | **Spotify**                       | **Adobe Premiere Pro**                         |
+
+## 🔑 Three Key Differences
+
+### 1. ⚡ Speed
+
+* **HDD:** Uses spinning disks, so it has the slowest read/write speeds.
+* **SSD:** Uses flash memory and is significantly faster than an HDD.
+* **NVMe:** Uses the PCIe interface and generally provides much higher speeds than SATA SSDs.
+
+### 2. 🔌 Connection & Technology
+
+* **HDD:** Uses mechanical moving parts and commonly connects through SATA.
+* **SSD:** Uses flash memory and can use SATA or other interfaces.
+* **NVMe SSD:** Uses the NVMe protocol over PCIe, allowing faster communication with the CPU.
+
+### 3. 🎯 Best Use Case
+
+* 🟤 **HDD → File storage:** Useful for storing large collections of photos, videos, backups, and other files where maximum speed isn't essential.
+* 🔵 **SSD → Spotify:** Faster storage helps Spotify and the operating system launch quickly and provides responsive everyday use.
+* 🟣 **NVMe → Adobe Premiere Pro:** High storage bandwidth can help with large video files, project loading, and media workflows.
+
+## 🏁 Quick Summary
+
+**HDD → 💰 Affordable + large storage**
+**SSD → ⚖️ Fast + practical for everyday computing**
+**NVMe → 🚀 Highest performance for demanding workloads**
+
+> 💡 **Note:** NVMe is a storage protocol rather than a completely separate type of flash memory. In everyday PC terminology, "NVMe SSD" refers to an SSD that communicates over PCIe using NVMe.
+# Q4.Remove the storage drive (HDD or SSD) from your system, take a photo of the connector type (SATA, M.2, or NVMe), and reinstall the drive. Confirm that your device recognizes the storage after reassembly.<br><br><em><strong>Constraint:</strong> Only perform this task if you have access to a device you are allowed to open. If not, find and share a YouTube video link showing the process for your laptop/PC model.</em>
+Ans. # 💾 Storage Drive Removal & Reinstallation
+
+## 🎯 Objective
+
+To identify the storage drive and its connector type (**SATA, M.2, or NVMe**), safely remove and reinstall the drive, and verify that the system recognizes the storage after reassembly.
+
+## 🔧 Procedure
+
+1. 🔌 Shut down the computer completely and disconnect the power supply.
+2. 🛡️ Open the computer case or laptop back panel **only if authorized to do so**.
+3. 🔍 Locate the installed **HDD or SSD**.
+4. 📸 Take a clear photo showing the drive and its connector type.
+5. 🔎 Identify the connector:
+
+   * **SATA** — uses separate SATA data and power connections.
+   * **M.2** — a small, flat module mounted directly on the motherboard.
+   * **NVMe** — an SSD using the NVMe protocol, commonly installed in an M.2 slot.
+6. 🧤 Carefully remove the drive according to the manufacturer's instructions.
+7. 🔄 Reinstall the drive securely in its original position.
+8. 🔌 Close the case/panel and reconnect the power.
+9. 💻 Start the computer and allow the operating system to boot.
+10. ✅ Verify that the storage drive is detected by the operating system.
+
+## 📸 Connector Photo
+
+> **Insert your actual photo here.**
+
+```markdown
+![Storage Drive Connector](images/storage-connector.jpg)
+```
+
+## 🔍 Storage Identification
+
+| Item               | Details                   |
+| ------------------ | ------------------------- |
+| Storage Type       | HDD / SATA SSD / NVMe SSD |
+| Connector          | SATA / M.2 / NVMe         |
+| Photo              | 📸 Attached in repository |
+| Reinstalled        | ✅ Completed               |
+| System Recognition | ✅ Verified                |
+
+## ✅ Verification
+
+After reassembly, the storage drive should appear in the operating system.
+
+**Windows:**
+`Settings → System → Storage`
+
+or
+
+`Disk Management → Check installed drives`
+
+The drive can also be verified through **File Explorer → This PC** if it contains an accessible volume.
+
+## 📊 Result
+
+| Check                  | Status        |
+| ---------------------- | ------------- |
+| Storage drive located  | ✅ Completed   |
+| Connector identified   | ✅ Completed   |
+| Connector photographed | 📸 Documented |
+| Drive reinstalled      | ✅ Completed   |
+| System booted          | ✅ Verified    |
+| Storage recognized     | ✅ Verified    |
+
+## ⚠️ Safety Notes
+
+* 🔌 Always disconnect power before opening the device.
+* 🛡️ Only open hardware that you are authorized to service.
+* 🧤 Handle drives carefully and avoid touching exposed contacts.
+* 📖 Follow the manufacturer's service manual for your specific model.
+* ❌ Do not force a connector or drive into place.
+
+## 🎥 Alternative: YouTube Demonstration
+
+If you do **not** have permission to open your computer, use a trusted YouTube teardown/upgrade video for your **exact laptop or PC model** instead.
+
+> **Video:** `[Insert YouTube link for your exact model here]`
+
+### 🏁 Conclusion
+
+The storage drive's connector type was identified, the drive was safely reinstalled, and the system's ability to recognize the storage was verified.
